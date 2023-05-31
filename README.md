@@ -15,8 +15,8 @@ Step 10:Print the accuracy of the model.<br>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<br>
 
 ## Program:
-## Developed By: DHIVYA SHRI B
-## Reg No: 212221230009
+Developed By: DHIVYA SHRI B
+Reg No: 212221230009
 ```
 import numpy as np
 import pandas as pd 
@@ -53,6 +53,9 @@ plt.show()
 
 
 ## Output:
+
+![1](https://github.com/DhivyaShri484/Experiment-6---Heart-attack-prediction-using-MLP/assets/94505585/cb9cc975-ed73-424f-a217-6234e82512d6)
+![2](https://github.com/DhivyaShri484/Experiment-6---Heart-attack-prediction-using-MLP/assets/94505585/3c66da2a-c95c-4fbd-9380-511fefb23e4a)
 
 ## Result:
      Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
